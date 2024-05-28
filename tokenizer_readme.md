@@ -1,6 +1,6 @@
 # CSV Tokenizer
 #### Video Demo:  https://youtu.be/hFB3rE1TzfY
-#### Description:Provide how many tokens a CSV file would be for a given OpenAI model
+#### Description: Provide how many tokens a CSV file would be for a given OpenAI model
 
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pandas, tikotken and pytest. This project also requires sys and unittest.mock
