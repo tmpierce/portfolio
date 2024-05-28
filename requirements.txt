@@ -1,4 +1,0 @@
-pandas
-sys
-tiktoken
-unittest.mock
