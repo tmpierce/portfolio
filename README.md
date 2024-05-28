@@ -1,2 +1,2 @@
-# portfolio
-Samples of my SQL, DBT and Python work
+# Trevor Pierce - Recent Portfolio
+Samples of my recent SQL, DBT and Python work
