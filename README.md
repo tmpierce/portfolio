@@ -1,4 +1,4 @@
-# Trevor Pierce - Recent Portfolio
+# Trevor Pierce - Business Intelligence Portfolio
 Samples of my recent SQL, DBT and Python work
 
 ### About Me
