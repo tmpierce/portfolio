@@ -3,13 +3,9 @@ Samples of my recent SQL, DBT and Python work
 
 ### About Me
 
-* :earth_africa:  Based in New York
+* Data & Analytics Manager based in Astoria, New York
 
-* :email:  You can contact me at [tmpierce@gmail.com](mailto:tmpierce@gmail.com)
-
-* :brain:  I'm learning Python for AI, obtaining my PMP, and finding a new Makespace
-
-* :zap:  Former Bartender, Zookeeper, Journalist, Radio Producer, Construction Worker, Wine Writer, TIG Welder
+* You can contact me at [tmpierce@gmail.com](mailto:tmpierce@gmail.com)
 
 ### Skills
 <p align="left">
