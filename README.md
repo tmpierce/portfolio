@@ -1,9 +1,7 @@
-# Trevor Pierce - Business Intelligence Portfolio
-Samples of my recent SQL, DBT and Python work
-
+# Data & Analytics Manager based in Astoria, New York
 ### About Me
 
-* Data & Analytics Manager based in Astoria, New York
+* 10 years of experience as a Business Intelligence and Data & Analytics Manager for NYC-based Startups
 
 * You can contact me at [tmpierce@gmail.com](mailto:tmpierce@gmail.com)
 
