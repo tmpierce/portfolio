@@ -1,10 +1,6 @@
 # Trevor Pierce - Recent Portfolio
 Samples of my recent SQL, DBT and Python work
 
-# Hi :wave: My name is Trevor Pierce
-
-## Subtitle
-
 ### About Me
 
 * :earth_africa:  Based in New York
