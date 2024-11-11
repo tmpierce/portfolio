@@ -1,4 +1,4 @@
-# Data & Analytics Manager based in Astoria, New York
+# Director, QA/Data & Analytics based in Astoria, New York
 ### About Me
 
 * 10 years of experience as a Business Intelligence and Data & Analytics Manager for NYC-based Startups
