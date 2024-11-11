@@ -1,7 +1,7 @@
 # Director, QA/Data & Analytics based in Astoria, New York
 ### About Me
 
-* 10 years of experience as a Business Intelligence and Data & Analytics Manager for NYC-based Startups
+* 10 years of experience as a QA/Business Intelligence/Data & Analytics Manager and Director for NYC-based Startups
 
 * You can contact me at [tmpierce@gmail.com](mailto:tmpierce@gmail.com)
 
